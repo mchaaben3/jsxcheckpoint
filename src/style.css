@@ -1,0 +1,16 @@
+
+
+.Contain {
+    display: block;
+
+
+}
+.Contain > img {
+    width:90%;
+
+}
+.Contain > .title  {
+color: red;
+}
+
+
