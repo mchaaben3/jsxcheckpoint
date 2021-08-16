@@ -1,6 +1,6 @@
 
 import './App.css';
-import myWonderfulImage from "./imageInSrc.jpg";
+import imageFromSrc from "./imageInSrc.jpg";
 import './style.css';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
 
                 <h1 className="title red">Mahdi Chaaben</h1>
                 <br />
-                <img src={myWonderfulImage} alt=''/>
+                <img src={imageFromSrc} alt=''/>
 
                 <br />
 
